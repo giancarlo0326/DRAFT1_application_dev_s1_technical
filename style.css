@@ -1,0 +1,56 @@
+body {
+    background-color: #121212;
+}
+
+.navbar {
+    background-color: #2A3135;
+    padding: 25px;
+}
+
+.nav-item {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.header-img {
+    max-height: 50px;
+}
+
+/* Add this CSS to your existing style.css */
+#image-container {
+    max-width: 100%;
+    padding: 25px;
+    border-radius: 25cap;
+}
+
+footer {
+    background-color: rgb(48,52,52);
+    color: white;
+    padding: 20px 0;
+}
+
+.footerContainer {
+    text-align: center;
+}
+
+.collab-img {
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.footerBottom {
+    font-size: small;
+}
+
+/* Centered container */
+.centered-container {
+    background-color: #2A3135;
+    padding: 25px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
